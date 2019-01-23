@@ -5,5 +5,5 @@ apt install ansible -y
 while :
 do
   echo "Please"
-  sleep 500
+  sleep 5000
 done
